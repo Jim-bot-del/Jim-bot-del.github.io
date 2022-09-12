@@ -23,16 +23,16 @@ timezone: Pacific/Auckland
 
 title: Jim Zhu!                          # the main title
 
-tagline: Here's some stuff about me - <br> Data & Insights @ MBIE # it will display as the sub-title
+tagline: Here's some stuff about me - <br> I'm Jim # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Jim Zhu! Here's some stuff about me - Part III Engineering Science, Data & Insights @ MBIE
+  Jim Zhu! Here's some stuff about me - Part III Engineering Science
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
 
 github:
-  username: Jim-bot-del          # change to your github username
+  username: itsjimzhu         # change to your github username
 
 twitter:
   username: itsjimhi           # change to your twitter username
@@ -44,9 +44,9 @@ social:
   email: Jim Zhu            # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://www.linkedin.com/in/itsjimhi
+    - https://www.linkedin.com/in/itsjimzhu
     # - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/Jim-bot-del     # change to your github homepage
+    - https://github.com/itsjimzhu    # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
 
